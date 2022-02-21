@@ -1,0 +1,17 @@
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    #cffd01,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);
+
+
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+//definiendo patron de colores

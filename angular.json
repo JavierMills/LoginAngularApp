@@ -51,6 +51,7 @@
               "src/assets"
             ],
             "styles": [
+              "sccs/costum.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -118,6 +119,7 @@
               "src/assets"
             ],
             "styles": [
+              "sccs/costum.css",
               "src/styles.css"
             ],
             "scripts": []
