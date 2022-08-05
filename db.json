@@ -1,0 +1,55 @@
+{
+    "SobreGiros":[
+        
+    {
+        "Fecha": "2019/08/08",
+        "Garantia": 1170015331231072019,
+        "Importe_Linea": 1500000000,
+        "Saldo_Dia": 1500000000,
+        "Sobregiro": "OK",
+        "Modificar": ""
+      },
+      {
+        "Fecha": "2019/05/30",
+        "Garantia": 1170015331231072019,
+        "Importe_Linea": 1500000000,
+        "Saldo_Dia": 1500000000,
+        "Sobregiro": "OK",
+        "Modificar": ""
+      },
+      {
+        "Fecha": "2019/07/28",
+        "Garantia": 1170015331231072019,
+        "Importe_Linea": 1500000000,
+        "Saldo_Dia": 1500000000,
+        "Sobregiro": "OK",
+        "Modificar": ""
+      },
+      {
+        "Fecha": "2019/02/23",
+        "Garantia": 1170015331231072019,
+        "Importe_Linea": 1500000000,
+        "Saldo_Dia": 1500000000,
+        "Sobregiro": "OK",
+        "Modificar": ""
+      },
+      {
+        "Fecha": "2019/01/08",
+        "Garantia": 1170015331231072019,
+        "Importe_Linea": 1500000000,
+        "Saldo_Dia": 1500000000,
+        "Sobregiro": "OK",
+        "Modificar": ""
+      },
+      {
+        "Fecha": "2019/05/09",
+        "Garantia": 1170015331231072019,
+        "Importe_Linea": 1500000000,
+        "Saldo_Dia": 1500000000,
+        "Sobregiro": "OK",
+        "Modificar": ""
+      }
+   
+  ]
+    
+  }
